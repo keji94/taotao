@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/taotao.iml" filepath="$PROJECT_DIR$/taotao.iml" />
       <module fileurl="file://$PROJECT_DIR$/taotao-common/taotao-common.iml" filepath="$PROJECT_DIR$/taotao-common/taotao-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/taotao-manager/taotao-manager.iml" filepath="$PROJECT_DIR$/taotao-manager/taotao-manager.iml" />
-      <module fileurl="file://$PROJECT_DIR$/taotao-manager/taotao-manager-common/taotao-manager-common.iml" filepath="$PROJECT_DIR$/taotao-manager/taotao-manager-common/taotao-manager-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/taotao-manager/taotao-manager-dao/taotao-manager-dao.iml" filepath="$PROJECT_DIR$/taotao-manager/taotao-manager-dao/taotao-manager-dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/taotao-manager/taotao-manager-interface/taotao-manager-interface.iml" filepath="$PROJECT_DIR$/taotao-manager/taotao-manager-interface/taotao-manager-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/taotao-manager/taotao-manager-pojo/taotao-manager-pojo.iml" filepath="$PROJECT_DIR$/taotao-manager/taotao-manager-pojo/taotao-manager-pojo.iml" />
